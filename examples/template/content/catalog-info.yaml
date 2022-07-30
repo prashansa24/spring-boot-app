@@ -3,6 +3,9 @@ kind: Component
 metadata:
   name: Spring-Boot-app
   description: my spring boot app
+  annotations:
+    github.com/project-slug: 'prashansa24/spring-boot-app'
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: service
   owner: thoughtworks
