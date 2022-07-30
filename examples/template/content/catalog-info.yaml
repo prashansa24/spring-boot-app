@@ -1,8 +1,9 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: ${{ values.name | dump }}
+  name: Spring-Boot-app
+  description: my spring boot app
 spec:
   type: service
-  owner: user:guest
+  owner: thoughtworks
   lifecycle: experimental
