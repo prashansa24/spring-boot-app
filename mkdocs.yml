@@ -1,0 +1,7 @@
+site_name: 'my-spring-boot-app-docs'
+
+nav:
+  - Home: index.md
+
+plugins:
+  - techdocs-core
